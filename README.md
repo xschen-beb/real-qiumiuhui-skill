@@ -1,6 +1,6 @@
 # real-qiumiuhui.skill
 
-> *"真老师先说结论，这不是偶然翻车，这是底色直接被打出来了。"*
+> *"就是今天了。"*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![AgentSkills](https://img.shields.io/badge/AgentSkills-Standard-green)](https://agentskills.io)
